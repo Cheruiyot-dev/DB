@@ -7,21 +7,21 @@ const Testimonials: React.FC = () => {
 
   const testimonials = [
     {
-      name: "David Mwangi",
-      role: "Business Professional",
-      image: "https://randomuser.me/api/portraits/men/32.jpg",
-      text: "DB German Training Institute prepared me for my role at a multinational. Practical lessons, clear structure, and measurable progress made all the difference."
+      name: "David Ruto",
+      role: "Nurse",
+     
+      text: "DB German Training Institute prepared me for my role in Germany. Practical lessons, clear structure, and measurable progress made all the difference."
     },
     {
-      name: "Grace Ochieng",
-      role: "University Student",
-      image: "https://randomuser.me/api/portraits/women/44.jpg",
+      name: "Grace Cherotich",
+      role: "Student",
+      
       text: "As a student heading to Germany, DB German’s exam prep guided me step‑by‑step to certification. I felt supported and confident throughout."
     },
     {
       name: "James Kariuki",
-      role: "Tourism Specialist",
-      image: "https://randomuser.me/api/portraits/men/62.jpg",
+      role: "Nurse Specialist",
+    
       text: "I needed professional conversational skills fast. DB German’s coaching helped me communicate clearly with clients in weeks. Highly recommended."
     }
   ];
@@ -42,7 +42,7 @@ const Testimonials: React.FC = () => {
           </div>
         </AnimatedSection>
 
-        {/* Articles section removed per requirements */}
+     
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {testimonials.map((testimonial, index) => (
@@ -55,11 +55,7 @@ const Testimonials: React.FC = () => {
                   <p className="text-gray-700 mb-6 italic leading-relaxed">{testimonial.text}</p>
                 </div>
                 <div className="flex items-center mt-6 pt-6 border-t border-gray-200">
-                  <img 
-                    src={testimonial.image} 
-                    alt={testimonial.name} 
-                    className="w-12 h-12 rounded-full object-cover mr-4 border-2 border-primary/10" 
-                  />
+                 
                   <div>
                     <h4 className="font-semibold text-gray-900">{testimonial.name}</h4>
                     <p className="text-sm text-gray-600">{testimonial.role}</p>

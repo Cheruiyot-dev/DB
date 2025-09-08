@@ -159,9 +159,9 @@ const Contact: React.FC = () => {
                   <div>
                     <h4 className="font-medium">Visit Our Center</h4>
                     <p className="text-foreground/70 mt-1">
-                      {/* Transnational Plaza 4th floor,<br /> */}
-                      Nairobi CBD<br />
-                      Nairobi, Kenya
+                    
+                      Kapsabet<br />
+                     
                     </p>
                   </div>
                 </div>
@@ -212,7 +212,6 @@ const Contact: React.FC = () => {
                 <h4 className="font-medium mb-3">GET HELP</h4>
                 <div className="grid grid-cols-1 gap-2 text-foreground/70">
                   <a href="#contact" className="hover:text-primary transition-colors">Contact Us</a>
-                  <a href="#testimonials" className="hover:text-primary transition-colors">Latest Articles</a>
                   <a href="#" className="hover:text-primary transition-colors">FAQs</a>
                 </div>
               </div>

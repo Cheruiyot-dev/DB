@@ -39,8 +39,7 @@ const Footer: React.FC = () => {
                 <MapPin className="w-5 h-5 text-primary/80 mt-1 mr-3 flex-shrink-0" />
                 <p className="text-sm">
                   
-                  Nairobi, Kenya<br />
-                  P.O. Box 00100
+                  Kapsabet
                 </p>
               </div>
               <div className="flex items-center">
@@ -86,12 +85,7 @@ const Footer: React.FC = () => {
                 </a>
               </li>
               
-              <li>
-                <a href="#faq" className="text-sm hover:text-primary transition-colors flex items-center">
-                  <span className="text-primary mr-2">›</span>
-                  FAQs
-                </a>
-              </li>
+          
             </ul>
           </div>
         </div>
