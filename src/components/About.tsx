@@ -10,7 +10,7 @@ const About: React.FC = () => {
           <AnimatedSection className="order-2 md:order-1">
             <div className="relative">
               <img 
-                src="/public/learn.png"
+                src="/learn.png"
                 loading="lazy"
                 className="rounded-lg"
               />

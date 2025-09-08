@@ -114,7 +114,7 @@ const Services: React.FC = () => {
     {
       title: "A1 (Beginner) German Course",
       description: "Start your German language journey with essentials for everyday communication.",
-      image: "/public/learn.png",
+      image: "/learn.png",
       duration: "10 Weeks",
       students: 0,
       price: "KSh22,000.00",
@@ -129,7 +129,7 @@ const Services: React.FC = () => {
     {
       title: "A2 (Elementary) German Course",
       description: "Build on your foundation with everyday conversations and simple texts.",
-      image: "/public/learn.png",
+      image: "/learn.png",
       duration: "8 Weeks",
       students: 0,
       price: "KSh22,000.00",
@@ -144,7 +144,7 @@ const Services: React.FC = () => {
     {
       title: "B1 (Intermediate) German Course",
       description: "Advance your skills to discuss work, study, and daily topics with confidence.",
-      image: "/public/learn.png",
+      image: "/learn.png",
       duration: "8 Weeks", 
       students: 0,
       price: "KSh35,000.00",
@@ -160,7 +160,7 @@ const Services: React.FC = () => {
     {
       title: "B2 (Upper Intermediate) German Course",
       description: "Master complex grammar and fluency for academic and professional settings.",
-      image: "/public/learn.png",
+      image: "/learn.png",
       duration: "8 Weeks",
       students: 0,
       price: "KSh35,000.00",
