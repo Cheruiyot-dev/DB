@@ -122,7 +122,7 @@ const Courses: React.FC = () => {
               <div className="bg-white border border-gray-300 rounded-lg p-6">
                 <p className="text-lg leading-relaxed mb-2 text-black">Let us tell you about our classes.</p>
                 <ul className="list-disc ml-5 text-base leading-relaxed space-y-1 text-black">
-                  <li className="text-black">Classes are offered both as Live-Online Streaming or Physical (Nairobi CBD, Kenya).</li>
+                  <li className="text-black">Classes are offered both as Live-Online Streaming or Physical (Kapsabet).</li>
                   <li className="text-black">Choose from Morning, Afternoon, or Evening sessions to fit your schedule.</li>
                   <li className="text-black">All our trainers are practicing professionals.</li>
                 </ul>

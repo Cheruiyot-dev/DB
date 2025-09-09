@@ -30,7 +30,7 @@ const About: React.FC = () => {
              
               <div className="space-y-6 text-foreground/70">
                 <p className="leading-relaxed">
-                  Based in Nairobi, we deliver structured A1–B2 programs focused on clarity, practice, and measurable progress. Our instructors combine expertise with practical, real‑world usage.
+                  Based in Kapsabet, we deliver structured A1–B2 programs focused on clarity, practice, and measurable progress. Our instructors combine expertise with practical, real‑world usage.
                 </p>
                 <p className="leading-relaxed">
                   Flexible schedules, small groups, and guided exam preparation ensure you build the confidence to study, work, and live in German‑speaking environments.

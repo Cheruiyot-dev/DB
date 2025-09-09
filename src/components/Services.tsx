@@ -219,7 +219,7 @@ const Services: React.FC = () => {
             <div className="max-w-3xl mx-auto bg-foreground/5 p-8 md:p-10 rounded-xl border border-border/40">
               <h3 className="text-2xl font-display font-bold mb-4">Learn German from A1 to B2</h3>
               <p className="text-foreground/70 mb-6">
-                Join DB German Training Institute in Nairobi or online. Flexible schedules and small classes.
+                Join DB German Training Institute in Kapsabet or online. Flexible schedules and small classes.
               </p>
               <a 
                 href="/courses" 
