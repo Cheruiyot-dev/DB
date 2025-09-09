@@ -39,10 +39,7 @@ const Hero: React.FC = () => {
 
             {/* Stats */}
             <div className="grid grid-cols-3 gap-4 md:gap-8 pt-8 md:pt-12">
-              <div className="text-center lg:text-left">
-                <div className="text-3xl font-display font-bold text-primary">10+ Years</div>
-                <div className="text-sm text-muted-foreground">Teaching Excellence</div>
-              </div>
+             
               <div className="text-center lg:text-left">
                 <div className="text-3xl font-display font-bold text-accent">A1–B2</div>
                 <div className="text-sm text-muted-foreground">Comprehensive Levels</div>

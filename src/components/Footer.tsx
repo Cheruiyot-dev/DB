@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
             <div className="flex items-center space-x-2 mb-5">
               <div className="w-12 h-12 flex items-center justify-center">
                 <img 
-                  src="/logo.svg" 
+                  src="/logo1.svg" 
                   alt="DB German Training Institute Logo" 
                   className="h-10 w-auto"
                 />
